@@ -9,19 +9,19 @@
 
 
 - get in touch with me: [salar-ghi.github.io](https://salar-ghi.github.io/)
-- Also see: &nbsp; [<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedin logo" width="40" height="40" />](https://www.linkedin.com/in/salar-ghahremani/)
-
-<a href="https://www.linkedin.com/in/salar-ghahremani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salar-ghahremani" height="30" width="40" /></a>
+- Also see: &nbsp; <a href="https://www.linkedin.com/in/salar-ghahremani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salar-ghahremani" height="20" width="30" /></a>
 
 <br>
 <br>
+
+<!-- [<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedin logo" width="30" height="30" />](https://www.linkedin.com/in/salar-ghahremani/) -->
 
 
 <h3 align="left">Tech Stacks and Tools:</h3>
 <p align="left">
 <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet logo" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp logo" width="40" height="40" />&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="mssql logo" style="color:darkgoldenrod!important" width="40" height="40" color="darkgoldenrod" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mssql logo" style="color:darkgoldenrod!important" width="40" height="40" color="darkgoldenrod" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" alt="redis logo" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongo logo" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" alt="graphql logo" width="40" height="40" />&nbsp;
@@ -29,7 +29,7 @@
 <a href="https://www.elastic.co" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/></a>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript logo" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react logo" width="40" height="40" />&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs logo" width="40" height="40" style="color:darkgoldenrod!important" width="40" height="40" color="darkgoldenrod"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="nextjs logo" width="40" height="40" style="color:darkgoldenrod!important" width="40" height="40" color="darkgoldenrod"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git logo" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" alt="csharp logo" width="40" height="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="k8s logo" width="40" height="40" />&nbsp;

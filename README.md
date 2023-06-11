@@ -47,9 +47,8 @@
 
 </p>
 
-<p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=salar-ghi&show_icons=true&locale=en&layout=compact&card_width=360&theme=transparent" alt="salar-ghi" />    
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=salar-ghi&hide_border=false&theme=transparent" alt="salar-ghi" />
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=salar-ghi&show_icons=true&locale=en&layout=compact&card_width=325&theme=transparent" alt="salar-ghi" /></p>
+<p>&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=salar-ghi&hide_border=false&theme=transparent&card_width=420" alt="salar-ghi" />
 </p>
 
 <br>

@@ -16,6 +16,7 @@
 
 
 <h3 align="left">Tech Stacks and Tools:</h3>
+<p align="left">
 <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet logo" width="40" height="40" /> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp logo" width="40" height="40" /> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mssql logo" width="40" height="40" />
@@ -44,17 +45,19 @@
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
 </a>
 
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=salar-ghi&show_icons=true&locale=en&layout=compact&card_width=360&theme=transparent" alt="salar-ghi" />
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salar-ghi&hide_border=false&theme=transparent" alt="salar-ghi" />
+</p>
+
+<p align="left">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=salar-ghi&show_icons=true&locale=en&layout=compact&card_width=360&theme=transparent" alt="salar-ghi" />    
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=salar-ghi&hide_border=false&theme=transparent" alt="salar-ghi" />
 </p>
 
 <br>
 
-<p>
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=salar-ghi&theme=transparent&hide_border=false" alt="salar-ghi" />
+<p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=salar-ghi&theme=transparent&hide_border=false" alt="salar-ghi" />
 </p>
 
-<p>&nbsp;
+<!-- <p>&nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=salar-ghi&show_icons=true&locale=en&theme=transparent" alt="salar-ghi" />
-</p>
+</p> -->
